@@ -5,3 +5,4 @@
 ### 2022
 
 - [React Folder Structure // 2022.04.15](https://github.com/Dev-Study-Cafe/Growth-Story/blob/main/React%20Folder%20Structure%20::%202022.04.15.md)
+- [React Query Folder Structure // 2022.05.24](https://github.com/Dev-Study-Cafe/Growth-Story/blob/main/React%20Query%20Folder%20Structure%20::%202022.05.24.md)
