@@ -32,7 +32,8 @@ React Query는 Hook으로 구현되어 있기 때문에, React Component 이외�
 다음과 같은 구조로 관리하면 기존에 발생했던 문제는 해결할 수 있다.
 
 ```text
-Pages(React Component 형태) -> Service(Class 형태) -> Helper(Custom Hook 형태)
+Pages(React Component 형태) -> Service(Class 형태)
+                           -> Helper(Custom Hook 형태)
 ```
 
 API Call(React Query 사용 부분)을 React custom hook으로 만든다면 내부에서 hook 사용이 가능하고, 이 API Call을 Pages에서 호출하게 되면 기타 에러는 발생하지 않는다.  
